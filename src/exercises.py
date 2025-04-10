@@ -4,6 +4,9 @@ If you cannot complete an exercise, and you need the result for following exerci
 out import statement like this: `# from .solutions.exercise_1_1 import order_strings`. This was created with only a
 very limited set of data and is no replacement for your own solution in order to successfully complete these exercises.
 If you need help, please consult your mentor.
+
+Note: these example solutions mention first names instead of full names. This is not representative of the actual expected
+output.
 """
 
 from datetime import date
